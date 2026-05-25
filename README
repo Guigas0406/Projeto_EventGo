@@ -1,4 +1,4 @@
-# projeto_EventGo
+projeto_EventGo
 Aplicativo para Organização, Divulgação e Compartilhamento de Eventos
 
  📌 Descrição
@@ -17,16 +17,16 @@ Facilitar a organização de eventos e o compartilhamento assim facilitando o ac
 https://trello.com/invite/b/69a7686aaaa3dba6f26da55d/ATTI802cbec49c34bc03d82ef7430b6953bfD4A502F6/upx-nexus
 --
 
-## 👥 Integrantes
+👥 Integrantes
 - Guilherme Gaspar; Giovani Rodrigues; Matheus Godoy ; Matheus Martins; Victor Vasconcelos 
 
-## Descrição das Telas
+Descrição das Telas
 
-### Tela de Login
+Tela de Login
 Existem dois menus de login um para a parte de Organizador e outro para o usuário padrão. 
 
-### Dashboard
+Dashboard
 No menu de usuário podemos ver  informações  como eventos no mês, eventos que vou participar entre outra funções. E para os Organizadores podemos ver os seu eventos publicados, taxa de participação no evento.
 
-### Menu Lateral
+Menu Lateral
 Permite navegação entre as funcionalidades do sistema como eventos, minha agenda, relatórios e perfil.
