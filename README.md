@@ -14,7 +14,7 @@ Facilitar a organização de eventos e o compartilhamento assim facilitando o ac
 🔗 Links
 - Figma: https://cot-busy-07487180.figma.site
 - Trello: https://trello.com/invite/b/69a7686aaaa3dba6f26da55d/ATTI802cbec49c34bc03d82ef7430b6953bfD4A502F6/upx-nexus
-https://trello.com/invite/b/69a7686aaaa3dba6f26da55d/ATTI802cbec49c34bc03d82ef7430b6953bfD4A502F6/upx-nexus
+  
 --
 
 ## 👥 Integrantes
